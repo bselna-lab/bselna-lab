@@ -1,7 +1,7 @@
 ## Hi, I'm Bridget Selna!👋
 
 I'm a student at the University of Notre Dame studying Economics, Business, and Data Science. 
-I am originally from the San Francisco Bay Area
+I am originally from the San Francisco Bay Area.
 
 ## About Me:
 - 🎓 Currently taking Introduction to Data Science
