@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Bridget Selna!👋
+
+I'm a student at the University of Notre Dame studying Economics, Business, and Data Science. 
+I am originally from the San Francisco Bay Area
 
 <!--
 **bselna-lab/bselna-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me:
+- 🎓 Currently taking Introduction to Data Science
+- 🌱 I’m currently learning Python, pandas, and data visualization
+- 📫 How to reach me: bselna@nd.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Interests:
+- I love to cook, read, and watch movies
+- I am very interested in Data and Coding, so I am studying data science as a minor at Notre Dame.
 -->
