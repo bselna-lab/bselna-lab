@@ -8,6 +8,9 @@ I am originally from the San Francisco Bay Area.
 - 🌱 I’m currently learning Python, pandas, and data visualization
 - 📫 How to reach me: bselna@nd.edu
 
+## Current Projects:
+- 💻 Currently making a data visualization app through Streamlit!
+
 ## Interests:
 - I love to cook, read, and watch movies
 - I am very interested in Data and Coding, so I am studying data science as a minor at Notre Dame.
